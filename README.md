@@ -1,4 +1,4 @@
 # IEEE-megaproject
-'''First GitHub Repository'''
+First GitHub Repository
 
-A face mask recognition model
+A :face mask: recognition model
