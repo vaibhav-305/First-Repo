@@ -2,3 +2,15 @@ Hello World
 
 
 This is my first repository on GitHub.
+
+Steps to push your projects on Github:
+
+1. Go to the that specific project folder-->Right click mouse-->"select GIT Bash Here".
+2. Create a new Repository and get is https link = <github repo link>
+3. typefollowing commands.
+     git init
+     git remote add origin <github repo link>
+     git remote -v
+     git add .
+     git commit -m "First Commit"
+     git push origin master
