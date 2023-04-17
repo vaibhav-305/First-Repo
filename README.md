@@ -8,7 +8,7 @@ Steps to push your projects on Github:
      touch .gitignore\
      add names of files/folders in that filw who u wish not to be uploaded\
      git init\
-     git remote add origin <github repo link>\
+     git remote add origin "github repo link without quotes"\
      git remote -v\
      git add .  
      git commit -m "First Commit"  
